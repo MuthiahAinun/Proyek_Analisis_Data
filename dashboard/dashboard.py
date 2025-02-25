@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load Data
-day_df = pd.read_csv("Proyek_Analisis_Data/data/day.csv")
-hour_df = pd.read_csv("Proyek_Analisis_Data/data/hour.csv")
+day_df = pd.read_csv("data/day.csv")
+hour_df = pd.read_csv("data/hour.csv")
 
 # Page Title
 st.title("🚲 Dashboard Interaktif Penyewaan Sepeda")
