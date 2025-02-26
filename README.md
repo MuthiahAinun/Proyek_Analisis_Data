@@ -57,8 +57,8 @@ https://qfvz2lerzdusbu47jkpeqm.streamlit.app/
 
 ---
 ## 🔍 Analisis Data
-- **Jam Paling Ramai**: Penyewaan sepeda tertinggi terjadi pada **pukul 17:00** di hari kerja dengan rata-rata **461 sepeda**.
-- **Jam Paling Sepi**: Penyewaan sepeda terendah terjadi pada **pukul 4:00** di akhir pekan dengan rata-rata **6 sepeda**.
+- **Jam Paling Ramai**: Penyewaan sepeda tertinggi terjadi pada **pukul 17:00** dengan rata-rata **461 sepeda**.
+- **Jam Paling Sepi**: Penyewaan sepeda terendah terjadi pada **pukul 4:00** dengan rata-rata **6 sepeda**.
 - **Cuaca dengan Penyewaan Tertinggi**: Cuaca **Cerah** memiliki jumlah penyewaan tertinggi, yaitu **4877 sepeda**.
 - **Cuaca dengan Penyewaan Terendah**: Cuaca **Hujan** memiliki jumlah penyewaan terendah, yaitu **1803 sepeda**.
 
