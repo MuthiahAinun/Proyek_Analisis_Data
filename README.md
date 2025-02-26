@@ -52,7 +52,7 @@ Dashboard ini telah dideploy menggunakan **Streamlit Cloud**, sehingga dapat dia
 
 🔗 **Akses Dashboard di sini:**
 ```
-https://psychic-telegram-w64jxvjwpv6hvggg-8501.app.github.dev/
+https://qfvz2lerzdusbu47jkpeqm.streamlit.app/
 ```
 
 ---
